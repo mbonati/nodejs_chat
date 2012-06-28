@@ -1,0 +1,9 @@
+Modules dependencies:
+
+nconf (https://github.com/flatiron/nconf)
+
+
+
+Before start, install all npm packages
+npm install nconf
+
