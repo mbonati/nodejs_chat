@@ -1,9 +1,12 @@
-Modules dependencies:
+NPM Modules dependencies:
+- nconf (https://github.com/flatiron/nconf)
 
-nconf (https://github.com/flatiron/nconf)
+Infrastructure dependencies:
+- ActiveMQ bus (or any other STOMP compliant bus, like HornetQ, RabbitMQ, ecc....)
+- MongoDB (users, rooms storage, ecc...)
 
 
-
-Before start, install all npm packages
+Before start, install all npm packages:
 npm install nconf
+
 
